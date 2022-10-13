@@ -1,1 +1,5 @@
-Ainda não existem updates!
+➥ Adicionado  /fpsmenu
+➥ Adicionado lavagens de carros
+➥ Adicionado drone para a PSP
+➥ Agora para conseguirem comprar armas/munições na ammunation têm de comprar o porte de arma na PSP
+➥ Para verem os ids é na virgula ( , )
